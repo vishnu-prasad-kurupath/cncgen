@@ -9,7 +9,7 @@ A TCL script to create carbon nano-cone using [VMD](https://www.ks.uiuc.edu/Rese
   - \<cone-length> is the desired length of the cone from apex to base
 
 ## **CAUTION**
-The script wraps the graphene lattice produced by VMD to form a conical surface, providing a continuous conical surface of hexagonal carbon rings. This however does not guarantee that the structural nuances of the nanocone apex is handled optimally from a material science point of view. 
+The script wraps the graphene lattice produced by VMD to form a conical surface, providing a continuous conical surface of hexagonal carbon rings. However, this does not guarantee that the structural nuances of the nanocone apex is handled optimally from a material science point of view. 
  
 ## **License**
 
